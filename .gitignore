@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Additional files
+.vscode/
+.venv_goofbot/
+goofbot_test.py
+test.py
